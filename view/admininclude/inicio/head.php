@@ -1,6 +1,6 @@
 <!--- basic page needs
 ================================================== -->
-<title>Sistema de Documentación</title>
+<title>Sistema de Documentación - Test</title>
 <meta charset="utf-8">
 
 
